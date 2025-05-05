@@ -37,7 +37,7 @@ export default function ClientPage() {
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500">
               Congratulations!
             </h1>
-            <div className="text-2xl md:text-4xl mb-8">
+            <div className="text-2xl md:text-4xl mb-8 text-pink-900">
               <ReactTyped
                 strings={[
                   'You got the Amazon offer! 🎉',
