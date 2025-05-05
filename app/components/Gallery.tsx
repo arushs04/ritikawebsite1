@@ -15,7 +15,7 @@ const galleryItems: GalleryItem[] = [
   {
     id: 1,
     imageUrl: '/IMG_2476.jpeg',
-    title: 'Our First Date',
+    title: 'You beauty!',
     description: 'The beginning of our beautiful journey',
   },
   {
@@ -28,7 +28,7 @@ const galleryItems: GalleryItem[] = [
     id: 3,
     imageUrl: '/IMG_2006.jpeg',
     title: 'Celebrations',
-    description: 'Celebrating your achievements together',
+    description: 'Celebrating you every day!',
   },
 ];
 
